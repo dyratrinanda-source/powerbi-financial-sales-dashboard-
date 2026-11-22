@@ -6,9 +6,9 @@ An end-to-end Power BI project that finds which customer segments and discount l
 
 ## Dashboard preview
 
-![Executive Summary](images/page1_executive_summary.png)
-![Segment and Product](images/page2_segment_product.png)
-![Discount and Loss](images/page3_discount_loss.png)
+![Executive Summary](page1_executive_summary.png)
+![Segment and Product](page2_segment_product.png)
+![Discount and Loss](page3_discount_loss.png)
 
 ## Key findings
 
@@ -26,7 +26,7 @@ Recommendations are framed as hypotheses to validate, for example reviewing appr
 3. **DAX:** Total Sales, Total Profit, Profit Margin %, Discount Rate %, Loss Transactions, Loss Amount, and time-intelligence measures (Sales LY, Sales YoY %).
 4. **Design:** wireframed the three pages in Figma, then built them in Power BI with conditional formatting that reserves red for losses.
 
-![Data model](images/model_view.png)
+![Data model](![Data model](model_view.png))
 
 ## Dashboard pages
 
